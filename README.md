@@ -63,7 +63,7 @@
     3.  要求披露 3500 亿债务窟窿的具体债权人名单及清偿优先级。
 
 ## 🚀 How to Use (如何使用)
-1. Visit the Coze Bot link (Fill in your bot link here).
+1. Visit the Coze Bot link (https://www.coze.cn/s/A3HRjGj1txs/).
 2. Enter a company name (e.g., "Xiaomi Group" or "Evergrande").
 3. Get the report in 60--90 seconds.
 
