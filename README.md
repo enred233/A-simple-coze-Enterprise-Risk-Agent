@@ -1,5 +1,7 @@
 # 🛡️ Coze Enterprise Risk Due Diligence Agent (企业风险背调智能体)
 
+> 智能体已在Coze平台发布，欢迎体验：https://www.coze.cn/s/A3HRjGj1txs/
+
 > A commercial due diligence agent powered by Coze, integrating multi-source search, Python data visualization, and LLM-based risk assessment.
 > 基于 Coze 平台搭建的智能商业风控助手，集成多源检索、雷达图可视化与深度风险评估模型。
 
